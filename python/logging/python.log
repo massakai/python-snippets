@@ -1,0 +1,15 @@
+2013/10/29 00:39:21 [DEBUG] sample.py(8):<module>() This is debug message.
+2013/10/29 00:39:21 [INFO] sample.py(9):<module>() This is info message.
+2013/10/29 00:39:21 [WARNING] sample.py(10):<module>() This is warning message.
+2013/10/29 00:39:21 [ERROR] sample.py(11):<module>() This is error message.
+2013/10/29 00:39:21 [CRITICAL] sample.py(12):<module>() This is critical message.
+2013/10/29 00:47:40 [DEBUG] sample.py(8):<module>() This is debug message.
+2013/10/29 00:47:40 [INFO] sample.py(9):<module>() This is info message.
+2013/10/29 00:47:40 [WARNING] sample.py(10):<module>() This is warning message.
+2013/10/29 00:47:40 [ERROR] sample.py(11):<module>() This is error message.
+2013/10/29 00:47:40 [CRITICAL] sample.py(12):<module>() This is critical message.
+2013/10/29 00:47:55 [DEBUG] sample.py(8):<module>() This is debug message.
+2013/10/29 00:47:55 [INFO] sample.py(9):<module>() This is info message.
+2013/10/29 00:47:55 [WARNING] sample.py(10):<module>() This is warning message.
+2013/10/29 00:47:55 [ERROR] sample.py(11):<module>() This is error message.
+2013/10/29 00:47:55 [CRITICAL] sample.py(12):<module>() This is critical message.
