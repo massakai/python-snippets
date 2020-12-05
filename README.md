@@ -1,2 +1,2 @@
-python-sandbox
-==============
+python-snippets
+===============
